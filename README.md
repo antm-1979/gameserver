@@ -1,4 +1,4 @@
 gameserver
 ==========
 
-a network game server with cross platform support
+A network mobile game server with cross platform support.
